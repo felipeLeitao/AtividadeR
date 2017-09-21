@@ -1,0 +1,93 @@
+<style>
+body {
+    overflow: scroll;
+}
+</style>
+
+
+Apresentacao
+========================================================
+author: Felipe Leitao Da Silva - 1520418
+date: 21/09/2017
+autosize: true
+
+Quantidade de registros
+========================================================
+
+- Para obter a quantidade de registros, utilizei a rotina nrow, 
+exemplo abaixo:
+
+```{r}
+setwd("C:/Users/Felipe/Desktop/Exercicios Big Data/")
+db1 <- read.table('data_1.txt', header = TRUE, sep = "\t")
+
+nrow(db1)
+```
+
+
+Entender quais os campos estao disponiveis
+========================================================
+
+- Para entender quais os campos estao disponiveis, utilizei a rotina str, 
+exemplo abaixo:
+
+```{r}
+setwd("C:/Users/Felipe/Desktop/Exercicios Big Data/")
+db1 <- read.table('data_1.txt', header = TRUE, sep = "\t")
+
+str(db1)
+```
+
+Exibindo alguns registros
+========================================================
+
+- Para exibir os 5 primeiros registros utilizei a rotina head, 
+exemplo abaixo:
+
+```{r}
+setwd("C:/Users/Felipe/Desktop/Exercicios Big Data/")
+db1 <- read.table('data_1.txt', header = TRUE, sep = "\t")
+
+head(db1, 5)
+```
+
+
+Analisando alguns registros
+========================================================
+
+- Para analisar os registros utilizei a rotina summary, 
+exemplo abaixo:
+
+```{r}
+setwd("C:/Users/Felipe/Desktop/Exercicios Big Data/")
+db1 <- read.table('data_1.txt', header = TRUE, sep = "\t")
+
+summary(db1)
+```
+
+Grafico Histograma
+========================================================
+
+- Para mostrar o histograma dos registros utilizei a rotina hist
+exemplo abaixo:
+
+```{r}
+setwd("C:/Users/Felipe/Desktop/Exercicios Big Data/")
+db1 <- read.table('data_1.txt', header = TRUE, sep = "\t")
+
+hist(db1$Valor.Parcela)
+```
+
+
+Grafico de dispersao
+========================================================
+
+- Para mostrar o grafico de dispersao das parcelas utilizei a rotina hist
+exemplo abaixo:
+
+```{r}
+setwd("C:/Users/Felipe/Desktop/Exercicios Big Data/")
+db1 <- read.table('data_1.txt', header = TRUE, sep = "\t")
+
+plot(db1$Valor.Parcela)
+```

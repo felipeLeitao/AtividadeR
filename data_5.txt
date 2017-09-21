@@ -1,0 +1,1054 @@
+Ano	Mês	Evolução Mensal (AnoMes)	Unidade da Federação	Valor Contr Terceiros (R$)
+1994	Janeiro	199401	Rondônia	31704,55
+1994	Janeiro	199401	Acre	4906,33
+1994	Janeiro	199401	Amazonas	105348,95
+1994	Janeiro	199401	Roraima	8856,84
+1994	Janeiro	199401	Pará	176661,16
+1994	Janeiro	199401	Amapá	12685,2
+1994	Janeiro	199401	Tocantins	15450,41
+1994	Janeiro	199401	Maranhão	85084,92
+1994	Janeiro	199401	Piauí	38733,67
+1994	Janeiro	199401	Ceará	163217,06
+1994	Janeiro	199401	Rio Grande do Norte	78986,1
+1994	Janeiro	199401	Paraíba	73861,58
+1994	Janeiro	199401	Pernambuco	329389,51
+1994	Janeiro	199401	Alagoas	72695,36
+1994	Janeiro	199401	Sergipe	59712,76
+1994	Janeiro	199401	Bahia	465929,34
+1994	Janeiro	199401	Minas Gerais	1301967,9
+1994	Janeiro	199401	Espírito Santo	226424,73
+1994	Janeiro	199401	Rio de Janeiro	1781896,2
+1994	Janeiro	199401	São Paulo	7922553,12
+1994	Janeiro	199401	Paraná	843970,63
+1994	Janeiro	199401	Santa Catarina	547004,37
+1994	Janeiro	199401	Rio Grande do Sul	1057547
+1994	Janeiro	199401	Mato Grosso do Sul	132411,89
+1994	Janeiro	199401	Mato Grosso	93373,32
+1994	Janeiro	199401	Goiás	209336,73
+1994	Janeiro	199401	Distrito Federal	273358,53
+1994	Fevereiro	199402	Rondônia	44908,74
+1994	Fevereiro	199402	Acre	14048,55
+1994	Fevereiro	199402	Amazonas	153689,92
+1994	Fevereiro	199402	Roraima	15292,7
+1994	Fevereiro	199402	Pará	238139,44
+1994	Fevereiro	199402	Amapá	16000,38
+1994	Fevereiro	199402	Tocantins	18932,53
+1994	Fevereiro	199402	Maranhão	135362,78
+1994	Fevereiro	199402	Piauí	24962,59
+1994	Fevereiro	199402	Ceará	268677,07
+1994	Fevereiro	199402	Rio Grande do Norte	107044,28
+1994	Fevereiro	199402	Paraíba	59913,54
+1994	Fevereiro	199402	Pernambuco	375508,81
+1994	Fevereiro	199402	Alagoas	109886,39
+1994	Fevereiro	199402	Sergipe	91458,85
+1994	Fevereiro	199402	Bahia	654246,26
+1994	Fevereiro	199402	Minas Gerais	1867655,76
+1994	Fevereiro	199402	Espírito Santo	341156,72
+1994	Fevereiro	199402	Rio de Janeiro	2331983,96
+1994	Fevereiro	199402	São Paulo	10702397,6
+1994	Fevereiro	199402	Paraná	1197057,36
+1994	Fevereiro	199402	Santa Catarina	779278,56
+1994	Fevereiro	199402	Rio Grande do Sul	1497172,85
+1994	Fevereiro	199402	Mato Grosso do Sul	191081,98
+1994	Fevereiro	199402	Mato Grosso	158347,38
+1994	Fevereiro	199402	Goiás	317881,62
+1994	Fevereiro	199402	Distrito Federal	449903,69
+1994	Março	199403	Rondônia	56747,36
+1994	Março	199403	Acre	22610
+1994	Março	199403	Amazonas	215028,17
+1994	Março	199403	Roraima	22171,94
+1994	Março	199403	Pará	364478,88
+1994	Março	199403	Amapá	24820
+1994	Março	199403	Tocantins	30964,47
+1994	Março	199403	Maranhão	181232,64
+1994	Março	199403	Piauí	91352,3
+1994	Março	199403	Ceará	391212,62
+1994	Março	199403	Rio Grande do Norte	176594,45
+1994	Março	199403	Paraíba	156484,04
+1994	Março	199403	Pernambuco	569524,72
+1994	Março	199403	Alagoas	171324,83
+1994	Março	199403	Sergipe	140220,91
+1994	Março	199403	Bahia	920198,52
+1994	Março	199403	Minas Gerais	2760099,46
+1994	Março	199403	Espírito Santo	485230,15
+1994	Março	199403	Rio de Janeiro	4162715,67
+1994	Março	199403	São Paulo	15816057,87
+1994	Março	199403	Paraná	1703161,91
+1994	Março	199403	Santa Catarina	1079721,97
+1994	Março	199403	Rio Grande do Sul	2182534,04
+1994	Março	199403	Mato Grosso do Sul	293499,29
+1994	Março	199403	Mato Grosso	224237,13
+1994	Março	199403	Goiás	483548,64
+1994	Março	199403	Distrito Federal	676701,8
+1994	Abril	199404	Rondônia	107782,61
+1994	Abril	199404	Acre	24818,15
+1994	Abril	199404	Amazonas	309159,09
+1994	Abril	199404	Roraima	21962,18
+1994	Abril	199404	Pará	418089,58
+1994	Abril	199404	Amapá	27477,77
+1994	Abril	199404	Tocantins	39013,49
+1994	Abril	199404	Maranhão	229884,84
+1994	Abril	199404	Piauí	46212,78
+1994	Abril	199404	Ceará	504243,38
+1994	Abril	199404	Rio Grande do Norte	179267,56
+1994	Abril	199404	Paraíba	171380,86
+1994	Abril	199404	Pernambuco	1017517,67
+1994	Abril	199404	Alagoas	224936,8
+1994	Abril	199404	Sergipe	251321,15
+1994	Abril	199404	Bahia	1290450,64
+1994	Abril	199404	Minas Gerais	3687773,57
+1994	Abril	199404	Espírito Santo	708753,87
+1994	Abril	199404	Rio de Janeiro	5766238,59
+1994	Abril	199404	São Paulo	23409852,29
+1994	Abril	199404	Paraná	2684492,24
+1994	Abril	199404	Santa Catarina	1608519,62
+1994	Abril	199404	Rio Grande do Sul	3000350,02
+1994	Abril	199404	Mato Grosso do Sul	575520,96
+1994	Abril	199404	Mato Grosso	300350,9
+1994	Abril	199404	Goiás	640991,25
+1994	Abril	199404	Distrito Federal	932386,39
+1994	Maio	199405	Rondônia	120066,55
+1994	Maio	199405	Acre	35144,91
+1994	Maio	199405	Amazonas	348628,73
+1994	Maio	199405	Roraima	26667,21
+1994	Maio	199405	Pará	553513,46
+1994	Maio	199405	Amapá	29470,86
+1994	Maio	199405	Tocantins	49646,37
+1994	Maio	199405	Maranhão	239436,88
+1994	Maio	199405	Piauí	225171,15
+1994	Maio	199405	Ceará	782607,03
+1994	Maio	199405	Rio Grande do Norte	318316,19
+1994	Maio	199405	Paraíba	275087,09
+1994	Maio	199405	Pernambuco	1383631,43
+1994	Maio	199405	Alagoas	307563,71
+1994	Maio	199405	Sergipe	286902,71
+1994	Maio	199405	Bahia	1540872,97
+1994	Maio	199405	Minas Gerais	5968487,56
+1994	Maio	199405	Espírito Santo	1024861,94
+1994	Maio	199405	Rio de Janeiro	8307361,82
+1994	Maio	199405	São Paulo	33023981,21
+1994	Maio	199405	Paraná	3715600,67
+1994	Maio	199405	Santa Catarina	2308284,01
+1994	Maio	199405	Rio Grande do Sul	4354792,84
+1994	Maio	199405	Mato Grosso do Sul	532678,07
+1994	Maio	199405	Mato Grosso	339630,27
+1994	Maio	199405	Goiás	889176,56
+1994	Maio	199405	Distrito Federal	1316808,23
+1994	Junho	199406	Rondônia	212674,8
+1994	Junho	199406	Acre	80015,87
+1994	Junho	199406	Amazonas	692927,36
+1994	Junho	199406	Roraima	51916,09
+1994	Junho	199406	Pará	1141557,59
+1994	Junho	199406	Amapá	74353,08
+1994	Junho	199406	Tocantins	72017,4
+1994	Junho	199406	Maranhão	564442,48
+1994	Junho	199406	Piauí	266086,59
+1994	Junho	199406	Ceará	1182231,83
+1994	Junho	199406	Rio Grande do Norte	517370,38
+1994	Junho	199406	Paraíba	515146,22
+1994	Junho	199406	Pernambuco	2027342,88
+1994	Junho	199406	Alagoas	459413,21
+1994	Junho	199406	Sergipe	489796,94
+1994	Junho	199406	Bahia	3163939,37
+1994	Junho	199406	Minas Gerais	8541738,12
+1994	Junho	199406	Espírito Santo	1506309,72
+1994	Junho	199406	Rio de Janeiro	12541643,34
+1994	Junho	199406	São Paulo	52041694,25
+1994	Junho	199406	Paraná	5967617,9
+1994	Junho	199406	Santa Catarina	3543952,45
+1994	Junho	199406	Rio Grande do Sul	6905469,25
+1994	Junho	199406	Mato Grosso do Sul	994585,92
+1994	Junho	199406	Mato Grosso	741492,53
+1994	Junho	199406	Goiás	1192024,24
+1994	Junho	199406	Distrito Federal	2097146,47
+1994	Julho	199407	Rondônia	370612,77
+1994	Julho	199407	Acre	90536,66
+1994	Julho	199407	Amazonas	876187,95
+1994	Julho	199407	Roraima	56709,01
+1994	Julho	199407	Pará	1659021,47
+1994	Julho	199407	Amapá	91752,03
+1994	Julho	199407	Tocantins	87908,45
+1994	Julho	199407	Maranhão	715869,76
+1994	Julho	199407	Piauí	296535,06
+1994	Julho	199407	Ceará	1461521,82
+1994	Julho	199407	Rio Grande do Norte	548872,24
+1994	Julho	199407	Paraíba	572813,88
+1994	Julho	199407	Pernambuco	2526692,82
+1994	Julho	199407	Alagoas	575292,96
+1994	Julho	199407	Sergipe	498713,44
+1994	Julho	199407	Bahia	3799018,2
+1994	Julho	199407	Minas Gerais	12267439,41
+1994	Julho	199407	Espírito Santo	2047784,9
+1994	Julho	199407	Rio de Janeiro	17471842,88
+1994	Julho	199407	São Paulo	70615169,6
+1994	Julho	199407	Paraná	7750574,65
+1994	Julho	199407	Santa Catarina	4802339,77
+1994	Julho	199407	Rio Grande do Sul	8984997,86
+1994	Julho	199407	Mato Grosso do Sul	1324168,48
+1994	Julho	199407	Mato Grosso	1024937,02
+1994	Julho	199407	Goiás	2012727,51
+1994	Julho	199407	Distrito Federal	2681714,47
+1994	Agosto	199408	Rondônia	343773,19
+1994	Agosto	199408	Acre	94934,75
+1994	Agosto	199408	Amazonas	1026075,69
+1994	Agosto	199408	Roraima	71631,95
+1994	Agosto	199408	Pará	1722036,66
+1994	Agosto	199408	Amapá	104472,27
+1994	Agosto	199408	Tocantins	123111,09
+1994	Agosto	199408	Maranhão	763656,3
+1994	Agosto	199408	Piauí	374397,74
+1994	Agosto	199408	Ceará	1744344,55
+1994	Agosto	199408	Rio Grande do Norte	759796,22
+1994	Agosto	199408	Paraíba	706824,68
+1994	Agosto	199408	Pernambuco	2954639,04
+1994	Agosto	199408	Alagoas	639259,53
+1994	Agosto	199408	Sergipe	735469,78
+1994	Agosto	199408	Bahia	4506413,82
+1994	Agosto	199408	Minas Gerais	13218248,59
+1994	Agosto	199408	Espírito Santo	2310729,56
+1994	Agosto	199408	Rio de Janeiro	17414036,08
+1994	Agosto	199408	São Paulo	76430425,84
+1994	Agosto	199408	Paraná	8641620,52
+1994	Agosto	199408	Santa Catarina	5292834,24
+1994	Agosto	199408	Rio Grande do Sul	10391676,46
+1994	Agosto	199408	Mato Grosso do Sul	1492980,6
+1994	Agosto	199408	Mato Grosso	1218292,07
+1994	Agosto	199408	Goiás	2275886,88
+1994	Agosto	199408	Distrito Federal	2957832,65
+1994	Setembro	199409	Rondônia	299466,5
+1994	Setembro	199409	Acre	116867,01
+1994	Setembro	199409	Amazonas	1056838,16
+1994	Setembro	199409	Roraima	71452,24
+1994	Setembro	199409	Pará	1768448,2
+1994	Setembro	199409	Amapá	98053,74
+1994	Setembro	199409	Tocantins	123506,08
+1994	Setembro	199409	Maranhão	732478,31
+1994	Setembro	199409	Piauí	374575,57
+1994	Setembro	199409	Ceará	1716874,93
+1994	Setembro	199409	Rio Grande do Norte	668380,17
+1994	Setembro	199409	Paraíba	702316,92
+1994	Setembro	199409	Pernambuco	3076205,06
+1994	Setembro	199409	Alagoas	636132,8
+1994	Setembro	199409	Sergipe	649021,46
+1994	Setembro	199409	Bahia	3767954,3
+1994	Setembro	199409	Minas Gerais	13778616,78
+1994	Setembro	199409	Espírito Santo	2474524,39
+1994	Setembro	199409	Rio de Janeiro	20838137,92
+1994	Setembro	199409	São Paulo	81075426,33
+1994	Setembro	199409	Paraná	9170852,94
+1994	Setembro	199409	Santa Catarina	5897624,35
+1994	Setembro	199409	Rio Grande do Sul	11173662,39
+1994	Setembro	199409	Mato Grosso do Sul	1492286,46
+1994	Setembro	199409	Mato Grosso	1111078,74
+1994	Setembro	199409	Goiás	2416286,49
+1994	Setembro	199409	Distrito Federal	3228180,69
+1994	Outubro	199410	Rondônia	337295,97
+1994	Outubro	199410	Acre	102773,65
+1994	Outubro	199410	Amazonas	1194597,24
+1994	Outubro	199410	Roraima	80347,65
+1994	Outubro	199410	Pará	1725815,6
+1994	Outubro	199410	Amapá	115170,99
+1994	Outubro	199410	Tocantins	121890,97
+1994	Outubro	199410	Maranhão	756795,73
+1994	Outubro	199410	Piauí	415275,9
+1994	Outubro	199410	Ceará	1913878,18
+1994	Outubro	199410	Rio Grande do Norte	709839,79
+1994	Outubro	199410	Paraíba	738925,47
+1994	Outubro	199410	Pernambuco	3228775,56
+1994	Outubro	199410	Alagoas	698566,68
+1994	Outubro	199410	Sergipe	694723,47
+1994	Outubro	199410	Bahia	4790455,05
+1994	Outubro	199410	Minas Gerais	14088969,28
+1994	Outubro	199410	Espírito Santo	2597121,5
+1994	Outubro	199410	Rio de Janeiro	20878712,53
+1994	Outubro	199410	São Paulo	82972306,25
+1994	Outubro	199410	Paraná	9511010,67
+1994	Outubro	199410	Santa Catarina	6179243,16
+1994	Outubro	199410	Rio Grande do Sul	11241788,17
+1994	Outubro	199410	Mato Grosso do Sul	1522573,55
+1994	Outubro	199410	Mato Grosso	1217011,45
+1994	Outubro	199410	Goiás	2383546,66
+1994	Outubro	199410	Distrito Federal	3132492,08
+1994	Novembro	199411	Rondônia	470467,54
+1994	Novembro	199411	Acre	88046,83
+1994	Novembro	199411	Amazonas	1315355,81
+1994	Novembro	199411	Roraima	78792,16
+1994	Novembro	199411	Pará	1849805,47
+1994	Novembro	199411	Amapá	100670,68
+1994	Novembro	199411	Tocantins	138332,55
+1994	Novembro	199411	Maranhão	1119603,06
+1994	Novembro	199411	Piauí	382888,56
+1994	Novembro	199411	Ceará	1952379,45
+1994	Novembro	199411	Rio Grande do Norte	765868,54
+1994	Novembro	199411	Paraíba	790501,74
+1994	Novembro	199411	Pernambuco	3605690,75
+1994	Novembro	199411	Alagoas	754539,32
+1994	Novembro	199411	Sergipe	714313,18
+1994	Novembro	199411	Bahia	3970624,22
+1994	Novembro	199411	Minas Gerais	15271427,25
+1994	Novembro	199411	Espírito Santo	2713943,03
+1994	Novembro	199411	Rio de Janeiro	21725089,49
+1994	Novembro	199411	São Paulo	85664147,32
+1994	Novembro	199411	Paraná	10214521,62
+1994	Novembro	199411	Santa Catarina	7739856,08
+1994	Novembro	199411	Rio Grande do Sul	11973555,67
+1994	Novembro	199411	Mato Grosso do Sul	1593231,06
+1994	Novembro	199411	Mato Grosso	1243575,08
+1994	Novembro	199411	Goiás	2476130,17
+1994	Novembro	199411	Distrito Federal	3176912,56
+1994	Dezembro	199412	Rondônia	653718,29
+1994	Dezembro	199412	Acre	173588,87
+1994	Dezembro	199412	Amazonas	2254704,57
+1994	Dezembro	199412	Roraima	157725,98
+1994	Dezembro	199412	Pará	3061630,37
+1994	Dezembro	199412	Amapá	171566,95
+1994	Dezembro	199412	Tocantins	246721,48
+1994	Dezembro	199412	Maranhão	1540441
+1994	Dezembro	199412	Piauí	697181,87
+1994	Dezembro	199412	Ceará	3794786,5
+1994	Dezembro	199412	Rio Grande do Norte	1356051,57
+1994	Dezembro	199412	Paraíba	1407832,19
+1994	Dezembro	199412	Pernambuco	6993640,55
+1994	Dezembro	199412	Alagoas	1464358,14
+1994	Dezembro	199412	Sergipe	1345521,22
+1994	Dezembro	199412	Bahia	9089169,06
+1994	Dezembro	199412	Minas Gerais	28152216,84
+1994	Dezembro	199412	Espírito Santo	4855531,37
+1994	Dezembro	199412	Rio de Janeiro	40017054,75
+1994	Dezembro	199412	São Paulo	165292150,3
+1994	Dezembro	199412	Paraná	20001386,33
+1994	Dezembro	199412	Santa Catarina	13399836,16
+1994	Dezembro	199412	Rio Grande do Sul	23364380,69
+1994	Dezembro	199412	Mato Grosso do Sul	2773975,48
+1994	Dezembro	199412	Mato Grosso	1987502,24
+1994	Dezembro	199412	Goiás	4338261,84
+1994	Dezembro	199412	Distrito Federal	6593736,74
+1995	Janeiro	199501	Rondônia	334394,19
+1995	Janeiro	199501	Acre	85595,9
+1995	Janeiro	199501	Amazonas	1343820,4
+1995	Janeiro	199501	Roraima	73914,69
+1995	Janeiro	199501	Pará	1849147,71
+1995	Janeiro	199501	Amapá	100821,51
+1995	Janeiro	199501	Tocantins	123679,99
+1995	Janeiro	199501	Maranhão	1000854,6
+1995	Janeiro	199501	Piauí	443796,88
+1995	Janeiro	199501	Ceará	1945319,33
+1995	Janeiro	199501	Rio Grande do Norte	898140,6
+1995	Janeiro	199501	Paraíba	805037,95
+1995	Janeiro	199501	Pernambuco	3574583,81
+1995	Janeiro	199501	Alagoas	801821,76
+1995	Janeiro	199501	Sergipe	748211,9
+1995	Janeiro	199501	Bahia	4719048,57
+1995	Janeiro	199501	Minas Gerais	15115280,91
+1995	Janeiro	199501	Espírito Santo	2731950,15
+1995	Janeiro	199501	Rio de Janeiro	21918463,91
+1995	Janeiro	199501	São Paulo	88657134,87
+1995	Janeiro	199501	Paraná	9957587,19
+1995	Janeiro	199501	Santa Catarina	6463825,51
+1995	Janeiro	199501	Rio Grande do Sul	11529935,26
+1995	Janeiro	199501	Mato Grosso do Sul	1673530,41
+1995	Janeiro	199501	Mato Grosso	1070010,44
+1995	Janeiro	199501	Goiás	2406416,4
+1995	Janeiro	199501	Distrito Federal	3315411,2
+1995	Fevereiro	199502	Rondônia	375148,33
+1995	Fevereiro	199502	Acre	84405,46
+1995	Fevereiro	199502	Amazonas	1324736,41
+1995	Fevereiro	199502	Roraima	83806
+1995	Fevereiro	199502	Pará	1949657,95
+1995	Fevereiro	199502	Amapá	102333,29
+1995	Fevereiro	199502	Tocantins	149329,75
+1995	Fevereiro	199502	Maranhão	833738,11
+1995	Fevereiro	199502	Piauí	446052
+1995	Fevereiro	199502	Ceará	2128236,79
+1995	Fevereiro	199502	Rio Grande do Norte	814764,93
+1995	Fevereiro	199502	Paraíba	832912,74
+1995	Fevereiro	199502	Pernambuco	3886514,16
+1995	Fevereiro	199502	Alagoas	819909,18
+1995	Fevereiro	199502	Sergipe	791064,31
+1995	Fevereiro	199502	Bahia	4380362,07
+1995	Fevereiro	199502	Minas Gerais	15712314,45
+1995	Fevereiro	199502	Espírito Santo	2775605,34
+1995	Fevereiro	199502	Rio de Janeiro	23988135,47
+1995	Fevereiro	199502	São Paulo	93192395,86
+1995	Fevereiro	199502	Paraná	10183509,42
+1995	Fevereiro	199502	Santa Catarina	6865876,26
+1995	Fevereiro	199502	Rio Grande do Sul	12550558,49
+1995	Fevereiro	199502	Mato Grosso do Sul	1578891,89
+1995	Fevereiro	199502	Mato Grosso	1086890,47
+1995	Fevereiro	199502	Goiás	2494568,8
+1995	Fevereiro	199502	Distrito Federal	3431965,18
+1995	Março	199503	Rondônia	379253,19
+1995	Março	199503	Acre	133823,14
+1995	Março	199503	Amazonas	1455484,28
+1995	Março	199503	Roraima	95776,16
+1995	Março	199503	Pará	1991619,15
+1995	Março	199503	Amapá	110369,82
+1995	Março	199503	Tocantins	143783,69
+1995	Março	199503	Maranhão	845253,82
+1995	Março	199503	Piauí	436138,21
+1995	Março	199503	Ceará	2250831,98
+1995	Março	199503	Rio Grande do Norte	891883,65
+1995	Março	199503	Paraíba	877284,38
+1995	Março	199503	Pernambuco	3893126,6
+1995	Março	199503	Alagoas	899707,54
+1995	Março	199503	Sergipe	767164,22
+1995	Março	199503	Bahia	4290986,83
+1995	Março	199503	Minas Gerais	16305845,37
+1995	Março	199503	Espírito Santo	2845968,46
+1995	Março	199503	Rio de Janeiro	23714329,71
+1995	Março	199503	São Paulo	96445679,71
+1995	Março	199503	Paraná	10829061,36
+1995	Março	199503	Santa Catarina	7254740,2
+1995	Março	199503	Rio Grande do Sul	13114379,15
+1995	Março	199503	Mato Grosso do Sul	1734417,55
+1995	Março	199503	Mato Grosso	1289029,49
+1995	Março	199503	Goiás	2580466,83
+1995	Março	199503	Distrito Federal	3706149,92
+1995	Abril	199504	Rondônia	384498,55
+1995	Abril	199504	Acre	122755,61
+1995	Abril	199504	Amazonas	1364121,47
+1995	Abril	199504	Roraima	76685,43
+1995	Abril	199504	Pará	1839563,67
+1995	Abril	199504	Amapá	105044,7
+1995	Abril	199504	Tocantins	133391,47
+1995	Abril	199504	Maranhão	729284,1
+1995	Abril	199504	Piauí	397948,73
+1995	Abril	199504	Ceará	2067153,66
+1995	Abril	199504	Rio Grande do Norte	717224,31
+1995	Abril	199504	Paraíba	771905,45
+1995	Abril	199504	Pernambuco	3602969
+1995	Abril	199504	Alagoas	854458,05
+1995	Abril	199504	Sergipe	729685
+1995	Abril	199504	Bahia	4887796,79
+1995	Abril	199504	Minas Gerais	16451499,26
+1995	Abril	199504	Espírito Santo	2446917,22
+1995	Abril	199504	Rio de Janeiro	24115501,21
+1995	Abril	199504	São Paulo	101716127,4
+1995	Abril	199504	Paraná	13331490,25
+1995	Abril	199504	Santa Catarina	7557829,16
+1995	Abril	199504	Rio Grande do Sul	12705173,22
+1995	Abril	199504	Mato Grosso do Sul	1721730,91
+1995	Abril	199504	Mato Grosso	1253681,74
+1995	Abril	199504	Goiás	2559291,16
+1995	Abril	199504	Distrito Federal	3534485,54
+1995	Maio	199505	Rondônia	408067,28
+1995	Maio	199505	Acre	113978,53
+1995	Maio	199505	Amazonas	1591991,09
+1995	Maio	199505	Roraima	96923,12
+1995	Maio	199505	Pará	2001294,86
+1995	Maio	199505	Amapá	117456,64
+1995	Maio	199505	Tocantins	142747,45
+1995	Maio	199505	Maranhão	1044796,31
+1995	Maio	199505	Piauí	429142,52
+1995	Maio	199505	Ceará	2213279,54
+1995	Maio	199505	Rio Grande do Norte	773024,1
+1995	Maio	199505	Paraíba	834837,47
+1995	Maio	199505	Pernambuco	3935031,08
+1995	Maio	199505	Alagoas	876137,42
+1995	Maio	199505	Sergipe	830105,77
+1995	Maio	199505	Bahia	5351981,96
+1995	Maio	199505	Minas Gerais	17719925,04
+1995	Maio	199505	Espírito Santo	3349344,76
+1995	Maio	199505	Rio de Janeiro	25270782,01
+1995	Maio	199505	São Paulo	102074038,9
+1995	Maio	199505	Paraná	11442512,03
+1995	Maio	199505	Santa Catarina	7253843,18
+1995	Maio	199505	Rio Grande do Sul	13671885,49
+1995	Maio	199505	Mato Grosso do Sul	1647326,69
+1995	Maio	199505	Mato Grosso	1440450,52
+1995	Maio	199505	Goiás	2781335,04
+1995	Maio	199505	Distrito Federal	3832463,19
+1995	Junho	199506	Rondônia	457770,86
+1995	Junho	199506	Acre	152385,63
+1995	Junho	199506	Amazonas	1678160,89
+1995	Junho	199506	Roraima	109964,82
+1995	Junho	199506	Pará	2305051,68
+1995	Junho	199506	Amapá	140856,16
+1995	Junho	199506	Tocantins	189203,6
+1995	Junho	199506	Maranhão	885732,26
+1995	Junho	199506	Piauí	496013,54
+1995	Junho	199506	Ceará	2483473,09
+1995	Junho	199506	Rio Grande do Norte	895642,54
+1995	Junho	199506	Paraíba	927670,69
+1995	Junho	199506	Pernambuco	4063648,06
+1995	Junho	199506	Alagoas	865312,81
+1995	Junho	199506	Sergipe	907390,69
+1995	Junho	199506	Bahia	7291082,34
+1995	Junho	199506	Minas Gerais	18824468,78
+1995	Junho	199506	Espírito Santo	3541946,83
+1995	Junho	199506	Rio de Janeiro	26392741,44
+1995	Junho	199506	São Paulo	109729235,7
+1995	Junho	199506	Paraná	12459129,48
+1995	Junho	199506	Santa Catarina	8049588,6
+1995	Junho	199506	Rio Grande do Sul	14987128,63
+1995	Junho	199506	Mato Grosso do Sul	1849232,37
+1995	Junho	199506	Mato Grosso	1449075,14
+1995	Junho	199506	Goiás	3086574,46
+1995	Junho	199506	Distrito Federal	4207549,29
+1995	Julho	199507	Rondônia	444012,2
+1995	Julho	199507	Acre	144346,87
+1995	Julho	199507	Amazonas	1693381,89
+1995	Julho	199507	Roraima	100519
+1995	Julho	199507	Pará	2303105,84
+1995	Julho	199507	Amapá	137661,95
+1995	Julho	199507	Tocantins	176188,7
+1995	Julho	199507	Maranhão	1111668,09
+1995	Julho	199507	Piauí	505558,31
+1995	Julho	199507	Ceará	2521054,19
+1995	Julho	199507	Rio Grande do Norte	992382,33
+1995	Julho	199507	Paraíba	932917,72
+1995	Julho	199507	Pernambuco	3998511,56
+1995	Julho	199507	Alagoas	882859,38
+1995	Julho	199507	Sergipe	916496,51
+1995	Julho	199507	Bahia	5873608,95
+1995	Julho	199507	Minas Gerais	18985636,55
+1995	Julho	199507	Espírito Santo	3363329,64
+1995	Julho	199507	Rio de Janeiro	27148482,39
+1995	Julho	199507	São Paulo	109956474
+1995	Julho	199507	Paraná	12440575,65
+1995	Julho	199507	Santa Catarina	7867536,67
+1995	Julho	199507	Rio Grande do Sul	14398392,92
+1995	Julho	199507	Mato Grosso do Sul	1768088,96
+1995	Julho	199507	Mato Grosso	1485127,99
+1995	Julho	199507	Goiás	3034124,18
+1995	Julho	199507	Distrito Federal	4553360,23
+1995	Agosto	199508	Rondônia	491070,85
+1995	Agosto	199508	Acre	133063,06
+1995	Agosto	199508	Amazonas	1684764,03
+1995	Agosto	199508	Roraima	108113,19
+1995	Agosto	199508	Pará	2281191,17
+1995	Agosto	199508	Amapá	168262,39
+1995	Agosto	199508	Tocantins	175507,32
+1995	Agosto	199508	Maranhão	1066318,84
+1995	Agosto	199508	Piauí	524864,4
+1995	Agosto	199508	Ceará	2558481,9
+1995	Agosto	199508	Rio Grande do Norte	947448,62
+1995	Agosto	199508	Paraíba	1007335,73
+1995	Agosto	199508	Pernambuco	4898252,94
+1995	Agosto	199508	Alagoas	846186,57
+1995	Agosto	199508	Sergipe	897774,59
+1995	Agosto	199508	Bahia	5824950,73
+1995	Agosto	199508	Minas Gerais	19623778,5
+1995	Agosto	199508	Espírito Santo	3338264,15
+1995	Agosto	199508	Rio de Janeiro	27893163,57
+1995	Agosto	199508	São Paulo	113079773,3
+1995	Agosto	199508	Paraná	12593000,18
+1995	Agosto	199508	Santa Catarina	7916944,94
+1995	Agosto	199508	Rio Grande do Sul	14327559,81
+1995	Agosto	199508	Mato Grosso do Sul	1856663,52
+1995	Agosto	199508	Mato Grosso	1542202,4
+1995	Agosto	199508	Goiás	3062753,84
+1995	Agosto	199508	Distrito Federal	4374281,83
+1995	Setembro	199509	Rondônia	488833,42
+1995	Setembro	199509	Acre	116787,75
+1995	Setembro	199509	Amazonas	1740581,69
+1995	Setembro	199509	Roraima	102709,65
+1995	Setembro	199509	Pará	2240789,48
+1995	Setembro	199509	Amapá	170109,99
+1995	Setembro	199509	Tocantins	177818,68
+1995	Setembro	199509	Maranhão	963872,21
+1995	Setembro	199509	Piauí	522378,64
+1995	Setembro	199509	Ceará	2600810,67
+1995	Setembro	199509	Rio Grande do Norte	842180,95
+1995	Setembro	199509	Paraíba	986581,42
+1995	Setembro	199509	Pernambuco	4228440,55
+1995	Setembro	199509	Alagoas	812415,53
+1995	Setembro	199509	Sergipe	859239,26
+1995	Setembro	199509	Bahia	5789234,48
+1995	Setembro	199509	Minas Gerais	19513165,7
+1995	Setembro	199509	Espírito Santo	3400718,31
+1995	Setembro	199509	Rio de Janeiro	27632660,34
+1995	Setembro	199509	São Paulo	113729151,9
+1995	Setembro	199509	Paraná	12853850,41
+1995	Setembro	199509	Santa Catarina	7905203,54
+1995	Setembro	199509	Rio Grande do Sul	14395698,86
+1995	Setembro	199509	Mato Grosso do Sul	1839646,5
+1995	Setembro	199509	Mato Grosso	1625905,42
+1995	Setembro	199509	Goiás	3023904,7
+1995	Setembro	199509	Distrito Federal	4441393,19
+1995	Outubro	199510	Rondônia	436286,87
+1995	Outubro	199510	Acre	127487,94
+1995	Outubro	199510	Amazonas	1780195,74
+1995	Outubro	199510	Roraima	109961,34
+1995	Outubro	199510	Pará	2225535,32
+1995	Outubro	199510	Amapá	163920,02
+1995	Outubro	199510	Tocantins	185581,8
+1995	Outubro	199510	Maranhão	1022604,56
+1995	Outubro	199510	Piauí	539000,77
+1995	Outubro	199510	Ceará	2582489,35
+1995	Outubro	199510	Rio Grande do Norte	995020,16
+1995	Outubro	199510	Paraíba	1025420,73
+1995	Outubro	199510	Pernambuco	4351968,65
+1995	Outubro	199510	Alagoas	909758,11
+1995	Outubro	199510	Sergipe	904963,42
+1995	Outubro	199510	Bahia	5889620,51
+1995	Outubro	199510	Minas Gerais	20247208,44
+1995	Outubro	199510	Espírito Santo	3477446,35
+1995	Outubro	199510	Rio de Janeiro	28026395,17
+1995	Outubro	199510	São Paulo	113310494,8
+1995	Outubro	199510	Paraná	12641201,2
+1995	Outubro	199510	Santa Catarina	7934617,58
+1995	Outubro	199510	Rio Grande do Sul	14514560,08
+1995	Outubro	199510	Mato Grosso do Sul	1812835,65
+1995	Outubro	199510	Mato Grosso	1614691,48
+1995	Outubro	199510	Goiás	3045597,94
+1995	Outubro	199510	Distrito Federal	4371888,77
+1995	Novembro	199511	Rondônia	439891,35
+1995	Novembro	199511	Acre	121540,27
+1995	Novembro	199511	Amazonas	1920578,04
+1995	Novembro	199511	Roraima	109246,02
+1995	Novembro	199511	Pará	2269862,76
+1995	Novembro	199511	Amapá	160879,77
+1995	Novembro	199511	Tocantins	188591,53
+1995	Novembro	199511	Maranhão	954600,49
+1995	Novembro	199511	Piauí	518403,28
+1995	Novembro	199511	Ceará	2647296,41
+1995	Novembro	199511	Rio Grande do Norte	926915,79
+1995	Novembro	199511	Paraíba	1036959,32
+1995	Novembro	199511	Pernambuco	4455177,11
+1995	Novembro	199511	Alagoas	930111,86
+1995	Novembro	199511	Sergipe	862499,96
+1995	Novembro	199511	Bahia	5861142,23
+1995	Novembro	199511	Minas Gerais	19877600,74
+1995	Novembro	199511	Espírito Santo	3855980,9
+1995	Novembro	199511	Rio de Janeiro	28352072,73
+1995	Novembro	199511	São Paulo	114962098,5
+1995	Novembro	199511	Paraná	12773863,08
+1995	Novembro	199511	Santa Catarina	8200943,18
+1995	Novembro	199511	Rio Grande do Sul	14813883,05
+1995	Novembro	199511	Mato Grosso do Sul	1728273,9
+1995	Novembro	199511	Mato Grosso	1542685,06
+1995	Novembro	199511	Goiás	3106491,96
+1995	Novembro	199511	Distrito Federal	4450745,1
+1995	Dezembro	199512	Rondônia	651856,34
+1995	Dezembro	199512	Acre	186145,48
+1995	Dezembro	199512	Amazonas	3117786,93
+1995	Dezembro	199512	Roraima	166372,11
+1995	Dezembro	199512	Pará	3736902,73
+1995	Dezembro	199512	Amapá	244523,36
+1995	Dezembro	199512	Tocantins	312811,08
+1995	Dezembro	199512	Maranhão	1659379,11
+1995	Dezembro	199512	Piauí	921144,08
+1995	Dezembro	199512	Ceará	4380131,69
+1995	Dezembro	199512	Rio Grande do Norte	1513254,05
+1995	Dezembro	199512	Paraíba	1792421,7
+1995	Dezembro	199512	Pernambuco	7639381,77
+1995	Dezembro	199512	Alagoas	1704659,47
+1995	Dezembro	199512	Sergipe	1488932,82
+1995	Dezembro	199512	Bahia	10140324,93
+1995	Dezembro	199512	Minas Gerais	33984344,97
+1995	Dezembro	199512	Espírito Santo	5873587,26
+1995	Dezembro	199512	Rio de Janeiro	50957548,3
+1995	Dezembro	199512	São Paulo	203926146
+1995	Dezembro	199512	Paraná	21464650,21
+1995	Dezembro	199512	Santa Catarina	13719007,93
+1995	Dezembro	199512	Rio Grande do Sul	25573587,57
+1995	Dezembro	199512	Mato Grosso do Sul	2814373,14
+1995	Dezembro	199512	Mato Grosso	2462531,35
+1995	Dezembro	199512	Goiás	5179561
+1995	Dezembro	199512	Distrito Federal	7963399,39
+1996	Detalhamento Ignorado	199699	Rondônia	6703106,14
+1996	Detalhamento Ignorado	199699	Acre	2268847,57
+1996	Detalhamento Ignorado	199699	Amazonas	26099581,52
+1996	Detalhamento Ignorado	199699	Roraima	1787700,55
+1996	Detalhamento Ignorado	199699	Pará	31418116,51
+1996	Detalhamento Ignorado	199699	Amapá	2668311,07
+1996	Detalhamento Ignorado	199699	Tocantins	3697869,22
+1996	Detalhamento Ignorado	199699	Maranhão	15127458,68
+1996	Detalhamento Ignorado	199699	Piauí	7945305,96
+1996	Detalhamento Ignorado	199699	Ceará	39703927,4
+1996	Detalhamento Ignorado	199699	Rio Grande do Norte	14546733,26
+1996	Detalhamento Ignorado	199699	Paraíba	15687161
+1996	Detalhamento Ignorado	199699	Pernambuco	65642655,57
+1996	Detalhamento Ignorado	199699	Alagoas	14516886,85
+1996	Detalhamento Ignorado	199699	Sergipe	12426459,67
+1996	Detalhamento Ignorado	199699	Bahia	85885876,53
+1996	Detalhamento Ignorado	199699	Minas Gerais	285352478,8
+1996	Detalhamento Ignorado	199699	Espírito Santo	52631359,36
+1996	Detalhamento Ignorado	199699	Rio de Janeiro	419659287
+1996	Detalhamento Ignorado	199699	São Paulo	1639182084
+1996	Detalhamento Ignorado	199699	Paraná	182604982,4
+1996	Detalhamento Ignorado	199699	Santa Catarina	116104305,8
+1996	Detalhamento Ignorado	199699	Rio Grande do Sul	214482323,6
+1996	Detalhamento Ignorado	199699	Mato Grosso do Sul	26033203,78
+1996	Detalhamento Ignorado	199699	Mato Grosso	22655224,06
+1996	Detalhamento Ignorado	199699	Goiás	48075277,8
+1996	Detalhamento Ignorado	199699	Distrito Federal	66836461,86
+1996	Janeiro	199601	Rondônia	0
+1996	Janeiro	199601	Acre	0
+1996	Janeiro	199601	Amazonas	0
+1996	Janeiro	199601	Roraima	0
+1996	Janeiro	199601	Pará	0
+1996	Janeiro	199601	Amapá	0
+1996	Janeiro	199601	Tocantins	0
+1996	Janeiro	199601	Maranhão	0
+1996	Janeiro	199601	Piauí	0
+1996	Janeiro	199601	Ceará	0
+1996	Janeiro	199601	Rio Grande do Norte	0
+1996	Janeiro	199601	Paraíba	0
+1996	Janeiro	199601	Pernambuco	0
+1996	Janeiro	199601	Alagoas	0
+1996	Janeiro	199601	Sergipe	0
+1996	Janeiro	199601	Bahia	0
+1996	Janeiro	199601	Minas Gerais	0
+1996	Janeiro	199601	Espírito Santo	0
+1996	Janeiro	199601	Rio de Janeiro	0
+1996	Janeiro	199601	São Paulo	0
+1996	Janeiro	199601	Paraná	0
+1996	Janeiro	199601	Santa Catarina	0
+1996	Janeiro	199601	Rio Grande do Sul	0
+1996	Janeiro	199601	Mato Grosso do Sul	0
+1996	Janeiro	199601	Mato Grosso	0
+1996	Janeiro	199601	Goiás	0
+1996	Janeiro	199601	Distrito Federal	0
+1996	Fevereiro	199602	Rondônia	0
+1996	Fevereiro	199602	Acre	0
+1996	Fevereiro	199602	Amazonas	0
+1996	Fevereiro	199602	Roraima	0
+1996	Fevereiro	199602	Pará	0
+1996	Fevereiro	199602	Amapá	0
+1996	Fevereiro	199602	Tocantins	0
+1996	Fevereiro	199602	Maranhão	0
+1996	Fevereiro	199602	Piauí	0
+1996	Fevereiro	199602	Ceará	0
+1996	Fevereiro	199602	Rio Grande do Norte	0
+1996	Fevereiro	199602	Paraíba	0
+1996	Fevereiro	199602	Pernambuco	0
+1996	Fevereiro	199602	Alagoas	0
+1996	Fevereiro	199602	Sergipe	0
+1996	Fevereiro	199602	Bahia	0
+1996	Fevereiro	199602	Minas Gerais	0
+1996	Fevereiro	199602	Espírito Santo	0
+1996	Fevereiro	199602	Rio de Janeiro	0
+1996	Fevereiro	199602	São Paulo	0
+1996	Fevereiro	199602	Paraná	0
+1996	Fevereiro	199602	Santa Catarina	0
+1996	Fevereiro	199602	Rio Grande do Sul	0
+1996	Fevereiro	199602	Mato Grosso do Sul	0
+1996	Fevereiro	199602	Mato Grosso	0
+1996	Fevereiro	199602	Goiás	0
+1996	Fevereiro	199602	Distrito Federal	0
+1996	Março	199603	Rondônia	0
+1996	Março	199603	Acre	0
+1996	Março	199603	Amazonas	0
+1996	Março	199603	Roraima	0
+1996	Março	199603	Pará	0
+1996	Março	199603	Amapá	0
+1996	Março	199603	Tocantins	0
+1996	Março	199603	Maranhão	0
+1996	Março	199603	Piauí	0
+1996	Março	199603	Ceará	0
+1996	Março	199603	Rio Grande do Norte	0
+1996	Março	199603	Paraíba	0
+1996	Março	199603	Pernambuco	0
+1996	Março	199603	Alagoas	0
+1996	Março	199603	Sergipe	0
+1996	Março	199603	Bahia	0
+1996	Março	199603	Minas Gerais	0
+1996	Março	199603	Espírito Santo	0
+1996	Março	199603	Rio de Janeiro	0
+1996	Março	199603	São Paulo	0
+1996	Março	199603	Paraná	0
+1996	Março	199603	Santa Catarina	0
+1996	Março	199603	Rio Grande do Sul	0
+1996	Março	199603	Mato Grosso do Sul	0
+1996	Março	199603	Mato Grosso	0
+1996	Março	199603	Goiás	0
+1996	Março	199603	Distrito Federal	0
+1996	Abril	199604	Rondônia	0
+1996	Abril	199604	Acre	0
+1996	Abril	199604	Amazonas	0
+1996	Abril	199604	Roraima	0
+1996	Abril	199604	Pará	0
+1996	Abril	199604	Amapá	0
+1996	Abril	199604	Tocantins	0
+1996	Abril	199604	Maranhão	0
+1996	Abril	199604	Piauí	0
+1996	Abril	199604	Ceará	0
+1996	Abril	199604	Rio Grande do Norte	0
+1996	Abril	199604	Paraíba	0
+1996	Abril	199604	Pernambuco	0
+1996	Abril	199604	Alagoas	0
+1996	Abril	199604	Sergipe	0
+1996	Abril	199604	Bahia	0
+1996	Abril	199604	Minas Gerais	0
+1996	Abril	199604	Espírito Santo	0
+1996	Abril	199604	Rio de Janeiro	0
+1996	Abril	199604	São Paulo	0
+1996	Abril	199604	Paraná	0
+1996	Abril	199604	Santa Catarina	0
+1996	Abril	199604	Rio Grande do Sul	0
+1996	Abril	199604	Mato Grosso do Sul	0
+1996	Abril	199604	Mato Grosso	0
+1996	Abril	199604	Goiás	0
+1996	Abril	199604	Distrito Federal	0
+1996	Maio	199605	Rondônia	0
+1996	Maio	199605	Acre	0
+1996	Maio	199605	Amazonas	0
+1996	Maio	199605	Roraima	0
+1996	Maio	199605	Pará	0
+1996	Maio	199605	Amapá	0
+1996	Maio	199605	Tocantins	0
+1996	Maio	199605	Maranhão	0
+1996	Maio	199605	Piauí	0
+1996	Maio	199605	Ceará	0
+1996	Maio	199605	Rio Grande do Norte	0
+1996	Maio	199605	Paraíba	0
+1996	Maio	199605	Pernambuco	0
+1996	Maio	199605	Alagoas	0
+1996	Maio	199605	Sergipe	0
+1996	Maio	199605	Bahia	0
+1996	Maio	199605	Minas Gerais	0
+1996	Maio	199605	Espírito Santo	0
+1996	Maio	199605	Rio de Janeiro	0
+1996	Maio	199605	São Paulo	0
+1996	Maio	199605	Paraná	0
+1996	Maio	199605	Santa Catarina	0
+1996	Maio	199605	Rio Grande do Sul	0
+1996	Maio	199605	Mato Grosso do Sul	0
+1996	Maio	199605	Mato Grosso	0
+1996	Maio	199605	Goiás	0
+1996	Maio	199605	Distrito Federal	0
+1996	Junho	199606	Rondônia	0
+1996	Junho	199606	Acre	0
+1996	Junho	199606	Amazonas	0
+1996	Junho	199606	Roraima	0
+1996	Junho	199606	Pará	0
+1996	Junho	199606	Amapá	0
+1996	Junho	199606	Tocantins	0
+1996	Junho	199606	Maranhão	0
+1996	Junho	199606	Piauí	0
+1996	Junho	199606	Ceará	0
+1996	Junho	199606	Rio Grande do Norte	0
+1996	Junho	199606	Paraíba	0
+1996	Junho	199606	Pernambuco	0
+1996	Junho	199606	Alagoas	0
+1996	Junho	199606	Sergipe	0
+1996	Junho	199606	Bahia	0
+1996	Junho	199606	Minas Gerais	0
+1996	Junho	199606	Espírito Santo	0
+1996	Junho	199606	Rio de Janeiro	0
+1996	Junho	199606	São Paulo	0
+1996	Junho	199606	Paraná	0
+1996	Junho	199606	Santa Catarina	0
+1996	Junho	199606	Rio Grande do Sul	0
+1996	Junho	199606	Mato Grosso do Sul	0
+1996	Junho	199606	Mato Grosso	0
+1996	Junho	199606	Goiás	0
+1996	Junho	199606	Distrito Federal	0
+1996	Julho	199607	Rondônia	0
+1996	Julho	199607	Acre	0
+1996	Julho	199607	Amazonas	0
+1996	Julho	199607	Roraima	0
+1996	Julho	199607	Pará	0
+1996	Julho	199607	Amapá	0
+1996	Julho	199607	Tocantins	0
+1996	Julho	199607	Maranhão	0
+1996	Julho	199607	Piauí	0
+1996	Julho	199607	Ceará	0
+1996	Julho	199607	Rio Grande do Norte	0
+1996	Julho	199607	Paraíba	0
+1996	Julho	199607	Pernambuco	0
+1996	Julho	199607	Alagoas	0
+1996	Julho	199607	Sergipe	0
+1996	Julho	199607	Bahia	0
+1996	Julho	199607	Minas Gerais	0
+1996	Julho	199607	Espírito Santo	0
+1996	Julho	199607	Rio de Janeiro	0
+1996	Julho	199607	São Paulo	0
+1996	Julho	199607	Paraná	0
+1996	Julho	199607	Santa Catarina	0
+1996	Julho	199607	Rio Grande do Sul	0
+1996	Julho	199607	Mato Grosso do Sul	0
+1996	Julho	199607	Mato Grosso	0
+1996	Julho	199607	Goiás	0
+1996	Julho	199607	Distrito Federal	0
+1996	Agosto	199608	Rondônia	0
+1996	Agosto	199608	Acre	0
+1996	Agosto	199608	Amazonas	0
+1996	Agosto	199608	Roraima	0
+1996	Agosto	199608	Pará	0
+1996	Agosto	199608	Amapá	0
+1996	Agosto	199608	Tocantins	0
+1996	Agosto	199608	Maranhão	0
+1996	Agosto	199608	Piauí	0
+1996	Agosto	199608	Ceará	0
+1996	Agosto	199608	Rio Grande do Norte	0
+1996	Agosto	199608	Paraíba	0
+1996	Agosto	199608	Pernambuco	0
+1996	Agosto	199608	Alagoas	0
+1996	Agosto	199608	Sergipe	0
+1996	Agosto	199608	Bahia	0
+1996	Agosto	199608	Minas Gerais	0
+1996	Agosto	199608	Espírito Santo	0
+1996	Agosto	199608	Rio de Janeiro	0
+1996	Agosto	199608	São Paulo	0
+1996	Agosto	199608	Paraná	0
+1996	Agosto	199608	Santa Catarina	0
+1996	Agosto	199608	Rio Grande do Sul	0
+1996	Agosto	199608	Mato Grosso do Sul	0
+1996	Agosto	199608	Mato Grosso	0
+1996	Agosto	199608	Goiás	0
+1996	Agosto	199608	Distrito Federal	0
+1996	Setembro	199609	Rondônia	0
+1996	Setembro	199609	Acre	0
+1996	Setembro	199609	Amazonas	0
+1996	Setembro	199609	Roraima	0
+1996	Setembro	199609	Pará	0
+1996	Setembro	199609	Amapá	0
+1996	Setembro	199609	Tocantins	0
+1996	Setembro	199609	Maranhão	0
+1996	Setembro	199609	Piauí	0
+1996	Setembro	199609	Ceará	0
+1996	Setembro	199609	Rio Grande do Norte	0
+1996	Setembro	199609	Paraíba	0
+1996	Setembro	199609	Pernambuco	0
+1996	Setembro	199609	Alagoas	0
+1996	Setembro	199609	Sergipe	0
+1996	Setembro	199609	Bahia	0
+1996	Setembro	199609	Minas Gerais	0
+1996	Setembro	199609	Espírito Santo	0
+1996	Setembro	199609	Rio de Janeiro	0
+1996	Setembro	199609	São Paulo	0
+1996	Setembro	199609	Paraná	0
+1996	Setembro	199609	Santa Catarina	0
+1996	Setembro	199609	Rio Grande do Sul	0
+1996	Setembro	199609	Mato Grosso do Sul	0
+1996	Setembro	199609	Mato Grosso	0
+1996	Setembro	199609	Goiás	0
+1996	Setembro	199609	Distrito Federal	0
+1996	Outubro	199610	Rondônia	0
+1996	Outubro	199610	Acre	0
+1996	Outubro	199610	Amazonas	0
+1996	Outubro	199610	Roraima	0
+1996	Outubro	199610	Pará	0
+1996	Outubro	199610	Amapá	0
+1996	Outubro	199610	Tocantins	0
+1996	Outubro	199610	Maranhão	0
+1996	Outubro	199610	Piauí	0
+1996	Outubro	199610	Ceará	0
+1996	Outubro	199610	Rio Grande do Norte	0
+1996	Outubro	199610	Paraíba	0
+1996	Outubro	199610	Pernambuco	0
+1996	Outubro	199610	Alagoas	0
+1996	Outubro	199610	Sergipe	0
+1996	Outubro	199610	Bahia	0
+1996	Outubro	199610	Minas Gerais	0
+1996	Outubro	199610	Espírito Santo	0
+1996	Outubro	199610	Rio de Janeiro	0
+1996	Outubro	199610	São Paulo	0
+1996	Outubro	199610	Paraná	0
+1996	Outubro	199610	Santa Catarina	0
+1996	Outubro	199610	Rio Grande do Sul	0
+1996	Outubro	199610	Mato Grosso do Sul	0
+1996	Outubro	199610	Mato Grosso	0
+1996	Outubro	199610	Goiás	0
+1996	Outubro	199610	Distrito Federal	0
+1996	Novembro	199611	Rondônia	0
+1996	Novembro	199611	Acre	0
+1996	Novembro	199611	Amazonas	0
+1996	Novembro	199611	Roraima	0
+1996	Novembro	199611	Pará	0
+1996	Novembro	199611	Amapá	0
+1996	Novembro	199611	Tocantins	0
+1996	Novembro	199611	Maranhão	0
+1996	Novembro	199611	Piauí	0
+1996	Novembro	199611	Ceará	0
+1996	Novembro	199611	Rio Grande do Norte	0
+1996	Novembro	199611	Paraíba	0
+1996	Novembro	199611	Pernambuco	0
+1996	Novembro	199611	Alagoas	0
+1996	Novembro	199611	Sergipe	0
+1996	Novembro	199611	Bahia	0
+1996	Novembro	199611	Minas Gerais	0
+1996	Novembro	199611	Espírito Santo	0
+1996	Novembro	199611	Rio de Janeiro	0
+1996	Novembro	199611	São Paulo	0
+1996	Novembro	199611	Paraná	0
+1996	Novembro	199611	Santa Catarina	0
+1996	Novembro	199611	Rio Grande do Sul	0
+1996	Novembro	199611	Mato Grosso do Sul	0
+1996	Novembro	199611	Mato Grosso	0
+1996	Novembro	199611	Goiás	0
+1996	Novembro	199611	Distrito Federal	0
+1996	Dezembro	199612	Rondônia	0
+1996	Dezembro	199612	Acre	0
+1996	Dezembro	199612	Amazonas	0
+1996	Dezembro	199612	Roraima	0
+1996	Dezembro	199612	Pará	0
+1996	Dezembro	199612	Amapá	0
+1996	Dezembro	199612	Tocantins	0
+1996	Dezembro	199612	Maranhão	0
+1996	Dezembro	199612	Piauí	0
+1996	Dezembro	199612	Ceará	0
+1996	Dezembro	199612	Rio Grande do Norte	0
+1996	Dezembro	199612	Paraíba	0
+1996	Dezembro	199612	Pernambuco	0
+1996	Dezembro	199612	Alagoas	0
+1996	Dezembro	199612	Sergipe	0
+1996	Dezembro	199612	Bahia	0
+1996	Dezembro	199612	Minas Gerais	0
+1996	Dezembro	199612	Espírito Santo	0
+1996	Dezembro	199612	Rio de Janeiro	0
+1996	Dezembro	199612	São Paulo	0
+1996	Dezembro	199612	Paraná	0
+1996	Dezembro	199612	Santa Catarina	0
+1996	Dezembro	199612	Rio Grande do Sul	0
+1996	Dezembro	199612	Mato Grosso do Sul	0
+1996	Dezembro	199612	Mato Grosso	0
+1996	Dezembro	199612	Goiás	0
+1996	Dezembro	199612	Distrito Federal	0
+1997	Detalhamento Ignorado	199799	Rondônia	9037253,86
+1998	Detalhamento Ignorado	199899	Rondônia	10168000
+1997	Detalhamento Ignorado	199799	Acre	3058178,1
+1998	Detalhamento Ignorado	199899	Acre	3468000
+1997	Detalhamento Ignorado	199799	Amazonas	33378440,41
+1998	Detalhamento Ignorado	199899	Amazonas	33677000
+1997	Detalhamento Ignorado	199799	Roraima	2130046,06
+1998	Detalhamento Ignorado	199899	Roraima	2083000
+1997	Detalhamento Ignorado	199799	Pará	35842430,36
+1998	Detalhamento Ignorado	199899	Pará	34730000
+1997	Detalhamento Ignorado	199799	Amapá	3135617,81
+1998	Detalhamento Ignorado	199899	Amapá	3141000
+1997	Detalhamento Ignorado	199799	Tocantins	4842158,74
+1998	Detalhamento Ignorado	199899	Tocantins	6273000
+1997	Detalhamento Ignorado	199799	Maranhão	17803249,85
+1998	Detalhamento Ignorado	199899	Maranhão	17633000
+1997	Detalhamento Ignorado	199799	Piauí	10137961,28
+1998	Detalhamento Ignorado	199899	Piauí	10563000
+1997	Detalhamento Ignorado	199799	Ceará	46239990,43
+1998	Detalhamento Ignorado	199899	Ceará	45248000
+1997	Detalhamento Ignorado	199799	Rio Grande do Norte	18947996,29
+1998	Detalhamento Ignorado	199899	Rio Grande do Norte	19449000
+1997	Detalhamento Ignorado	199799	Paraíba	18921409,71
+1998	Detalhamento Ignorado	199899	Paraíba	18936000
+1997	Detalhamento Ignorado	199799	Pernambuco	72276795,63
+1998	Detalhamento Ignorado	199899	Pernambuco	70301000
+1997	Detalhamento Ignorado	199799	Alagoas	16633564,55
+1998	Detalhamento Ignorado	199899	Alagoas	16482000
+1997	Detalhamento Ignorado	199799	Sergipe	14614007,72
+1998	Detalhamento Ignorado	199899	Sergipe	14760000
+1997	Detalhamento Ignorado	199799	Bahia	99653279,49
+1998	Detalhamento Ignorado	199899	Bahia	101741000
+1997	Detalhamento Ignorado	199799	Minas Gerais	315473074,8
+1998	Detalhamento Ignorado	199899	Minas Gerais	302451000
+1997	Detalhamento Ignorado	199799	Espírito Santo	59380518,59
+1998	Detalhamento Ignorado	199899	Espírito Santo	56869000
+1997	Detalhamento Ignorado	199799	Rio de Janeiro	458257267,9
+1998	Detalhamento Ignorado	199899	Rio de Janeiro	472251000
+1997	Detalhamento Ignorado	199799	São Paulo	1831797454
+1998	Detalhamento Ignorado	199899	São Paulo	1811438000
+1997	Detalhamento Ignorado	199799	Paraná	207339031
+1998	Detalhamento Ignorado	199899	Paraná	213247000
+1997	Detalhamento Ignorado	199799	Santa Catarina	127719020,9
+1998	Detalhamento Ignorado	199899	Santa Catarina	119246000
+1997	Detalhamento Ignorado	199799	Rio Grande do Sul	234400177,4
+1998	Detalhamento Ignorado	199899	Rio Grande do Sul	236622000
+1997	Detalhamento Ignorado	199799	Mato Grosso do Sul	26571069,71
+1998	Detalhamento Ignorado	199899	Mato Grosso do Sul	28115000
+1997	Detalhamento Ignorado	199799	Mato Grosso	26997756,16
+1998	Detalhamento Ignorado	199899	Mato Grosso	27997000
+1997	Detalhamento Ignorado	199799	Goiás	58792309,97
+1998	Detalhamento Ignorado	199899	Goiás	57607000
+1997	Detalhamento Ignorado	199799	Distrito Federal	75828572,59
+1998	Detalhamento Ignorado	199899	Distrito Federal	76729000
